@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+.aws/credentials
+.aws/config
+secrets.json
+**/*secret*
+**/*token*
+**/*password*
+**/*api_key*
+**/*credentials*
